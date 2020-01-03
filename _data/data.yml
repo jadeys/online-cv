@@ -65,7 +65,7 @@ education:
       details: |
         For my PhD, I mainy estimate geocenter motion and the Earth's dynamic oblateness time-series using GRACE data and geophysical models.
         I have improved and extended a method put forward by Swenson et al., (2008) and now my work is the offical reference for the updated
-        geocenter motion data available on the GRACE TELLUS website (https://grace.jpl.nasa.gov/data/).
+        geocenter motion data available on the GRACE TELLUS website (https://grace.jpl.nasa.gov/data/get-data/geocenter).
           - PhD Thesis Estimating Geocenter Motion and Changes in the Earth Dynamic Oblateness from GRACE and Geophysical Models
           - Supervisors Roland Klees (Promoter), Riccardo Riva (Daily Supervisor), Pavel Ditmar (Advisor)    
     - degree: MSc and BSc 学士与硕士
