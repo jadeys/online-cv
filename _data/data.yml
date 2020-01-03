@@ -50,17 +50,29 @@ career-profile:
 #        Working at Fuzhou University as a assistant research.
     
 education:
+    - degree: Post-Doc
+      university: Delft University of Technology
+      time: 2016 - 2017
+      details: |
+        I worked for a year in Delft University of Technology at the last stage of my PhD period. In this year, I mainly study
+        the fingerprint approach aiming to produce geocenter motion and changes in the Earth's oblateness time-series. Such a
+        method is useful in that it not only provide accurate estimates but also allow a direct explaination of the mechanism.
+      
     - degree: PhD
       university: Delft University of Technology
       time: 2012 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        For my PhD, I mainy estimate geocenter motion and the Earth's dynamic oblateness time-series using GRACE data and geophysical models.
+        I have improved and extended a method put forward by Swenson et al., (2008) and now my work is the offical reference for the updated
+        geocenter motion data available on the GRACE TELLUS website (https://grace.jpl.nasa.gov/data/get-data/geocenter/).
+          - PhD Thesis: Estimating Geocenter Motion and Changes in the Earth Dynamic Oblateness from GRACE and Geophysical Models
+          - Supervisors: Roland Klees (Promoter), Riccardo Riva (Daily Supervisor), Pavel Ditmar (Advisor)
+          
+     - degree: MSc and BSc
+      university: Shandong University of Science and Technology
+      time: 2005 - 2012
+        
+          
 #experiences:
 #    - role: Lead Developer
 #      time: 2015 - Present
@@ -129,9 +141,7 @@ education:
 publications:
     title: Selected Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
       - title: Using GRACE Data to Explain the Variations in the Earth's Oblatenss
         link: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080607
