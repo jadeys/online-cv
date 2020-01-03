@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name:  孙玉 Yu Sun
     tagline: Researcher
-    avatar: berry.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: earth_small.gif  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yusun@fzu.edu.cn
@@ -145,7 +145,7 @@ publications:
       - title: Optimizing Estimates of Annual Variations and Trends in Geocenter Motion and J2 from a Combination of GRACE data and Gephysical Models
         link: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JB013073
         authors: Yu Sun, Riccardo Riva, Pavel Ditmar
-        conference: Journal of Geophysical Research: Solid Earth (2016)
+        conference: Journal of Geophysical Research Solid Earth (2016)
 
       - title: Observed Changes in the Earth's Dynamic Oblateness from GRACE Data and Geophysical Models
         link: https://link.springer.com/article/10.1007/s00190-015-0852-y
