@@ -48,27 +48,19 @@ sidebar:
 career-profile:
     title: Research Interest
     summary: |
-#        Working at Fuzhou University as a assistant research.
+       Physical and Space Geodesy; Remote Sensing based on cloud platforms such as google earth engine; InSAR
     
 education:
-    - degree: 博后
-      university: 荷兰代尔夫特理工大学
-      time: 2016 - 2017
-    - degree: 博士
-      university: 荷兰代尔夫特理工大学
-      time: 2012 - 2017
-    - degree: 学士与硕士
-      university: 山东科技大学
-      time: 2005 - 2012
-    - degree: Post Doc
-      university: Delft University of Technology
+
+    - degree: Post Doc 博后
+      university: Delft University of Technology 荷兰代尔夫特理工大学
       time: 2016 - 2017
       details: |
         I worked for a year in Delft University of Technology at the last stage of my PhD period. In this year, I mainly study
         the fingerprint approach aiming to produce geocenter motion and changes in the Earth's oblateness time series. Such a
         method is useful in that it not only provide accurate estimates but also allow a direct explaination of the mechanism. 
-    - degree: PhD
-      university: Delft University of Technology
+    - degree: PhD 博士
+      university: Delft University of Technology 荷兰代尔夫特理工大学
       time: 2012 - 2017
       details: |
         For my PhD, I mainy estimate geocenter motion and the Earth's dynamic oblateness time-series using GRACE data and geophysical models.
@@ -76,8 +68,8 @@ education:
         geocenter motion data available on the GRACE TELLUS website (https://grace.jpl.nasa.gov/data/).
           - PhD Thesis Estimating Geocenter Motion and Changes in the Earth Dynamic Oblateness from GRACE and Geophysical Models
           - Supervisors Roland Klees (Promoter), Riccardo Riva (Daily Supervisor), Pavel Ditmar (Advisor)    
-    - degree: MSc and BSc
-      university: Shandong University of Science and Technology
+    - degree: MSc and BSc 学士与硕士
+      university: Shandong University of Science and Technology 山东科技大学
       time: 2005 - 2012
         
           
