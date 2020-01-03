@@ -137,10 +137,11 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: Using GRACE data to explain earth's oblatenss
-        link: "#"
+      - title: Using GRACE Data to Explain the Variations in the Earth's Oblatenss
+        link: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080607"
         authors: Yu Sun, Riccardo Riva, Pavel Ditmar, Roelof Rietbroek
         conference: Addison-Wesley, 1968
+        Journal: Geophysical Research Letters
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
