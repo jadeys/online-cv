@@ -13,6 +13,7 @@ sidebar:
 
     # Sidebar links
     email: yusun@fzu.edu.cn
+    email: jade.yusun@outlook.com
     phone: 18259056260
     #website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
@@ -45,11 +46,20 @@ sidebar:
     #    link:
 
 career-profile:
-    title: Career Profile
+    title: Research Interest
     summary: |
 #        Working at Fuzhou University as a assistant research.
     
 education:
+    - degree: 博后
+      university: 荷兰代尔夫特理工大学
+      time: 2016 - 2017
+    - degree: 博士
+      university: 荷兰代尔夫特理工大学
+      time: 2012 - 2017
+    - degree: 学士与硕士
+      university: 山东科技大学
+      time: 2005 - 2012
     - degree: Post Doc
       university: Delft University of Technology
       time: 2016 - 2017
