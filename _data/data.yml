@@ -111,23 +111,23 @@ education:
 #        pellentesque eu, pretium quis, sem.
 #          - Bullet point
 #          - Bullet point
-#projects:
-#    title: Projects
+projects:
+    title: Projects
 #    intro: >
 #      You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 #    assignments:
-#      - title: Velocity
-#        link: "#hook"
+      - title: 国家自然科学基金青年项目(2019-2021) 利用质量迁移指纹和GRACE数据解算地心运动及地球动力学扁率(26.5万）
+        link: "#hook"
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 #
-#      - title: DevStudio
-#        link: "#"
+      - title: 2018年福建省海平面变化影响调查评估(2018, 35万）
+        link: "#"
 #        tagline: "A responsive website template designed to help web developers/designers market their services."
 #
-#      - title: Tempo
-#        link: "#"
+      - title: 1019年福建省海平面变化影响调查评估(2019, 33万)
+        link: "#"
 #        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 #
 #      - title: Atom
@@ -143,7 +143,7 @@ publications:
     intro: |
 
     papers:
-      - title: Using GRACE Data to Explain the Variations in the Earth's Oblatenss
+      - title: Using GRACE Data to Explain the Variations in the Earth's Oblateness
         link: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080607
         authors: Yu Sun, Riccardo Riva, Pavel Ditmar, Roelof Rietbroek
         conference: Geophysical Research Letters (2019)
@@ -155,18 +155,18 @@ publications:
 
       - title: Observed Changes in the Earth's Dynamic Oblateness from GRACE Data and Geophysical Models
         link: https://link.springer.com/article/10.1007/s00190-015-0852-y
-        authors: YuSun, Pavel Ditmar, Riccardo Riva
+        authors: Yu Sun, Pavel Ditmar, Riccardo Riva
         conference: Journal of Geodesy (2016)
         
       - title: Statistically Optimal Estimation of Degree-1 and C20 Coefficients based on GRACE Data and Geophysical Models
         link: https://academic.oup.com/gji/article/210/3/1305/3860088 
-        authors: YuSun, Pavel Ditmar, Riccardo Riva
+        authors: Yu Sun, Pavel Ditmar, Riccardo Riva
         conference: Geophysical Journal International (2017)
 
       - title: Climate-driven Seasonal Geocenter Motion During the GRACE Period
         link: https://link.springer.com/article/10.1007/s11600-018-0130-5 
-        authors: Hongyue Zhang, YuSun (Corresponding Author)
-        conference: Acta Geophysica Geophysical (2018)
+        authors: Hongyue Zhang, Yu Sun (Corresponding Author)
+        conference: Acta Geophysica (2018)
         
 #skills:
 #    title: Skills &amp; Proficiency
