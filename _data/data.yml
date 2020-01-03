@@ -50,13 +50,13 @@ career-profile:
 #        Working at Fuzhou University as a assistant research.
     
 education:
-    - degree: Post Doc
-      university: Delft University of Technology
-      time: 2016 - 2017
-      details: |
-        I worked for a year in Delft University of Technology at the last stage of my PhD period. In this year, I mainly study
-        the fingerprint approach aiming to produce geocenter motion and changes in the Earth's oblateness time series. Such a
-        method is useful in that it not only provide accurate estimates but also allow a direct explaination of the mechanism.
+#    - degree: Post Doc
+#      university: Delft University of Technology
+#      time: 2016 - 2017
+#      details: |
+#        I worked for a year in Delft University of Technology at the last stage of my PhD period. In this year, I mainly study
+#        the fingerprint approach aiming to produce geocenter motion and changes in the Earth's oblateness time series. Such a
+#        method is useful in that it not only provide accurate estimates but also allow a direct explaination of the mechanism.
       
     - degree: PhD
       university: Delft University of Technology
@@ -68,9 +68,9 @@ education:
           - PhD Thesis Estimating Geocenter Motion and Changes in the Earth Dynamic Oblateness from GRACE and Geophysical Models
           - Supervisors Roland Klees (Promoter), Riccardo Riva (Daily Supervisor), Pavel Ditmar (Advisor)
           
-     - degree: MSc and BSc
-      university: Shandong University of Science and Technology
-      time: 2005 - 2012
+ #    - degree: MSc and BSc
+ #     university: Shandong University of Science and Technology
+ #     time: 2005 - 2012
         
           
 #experiences:
