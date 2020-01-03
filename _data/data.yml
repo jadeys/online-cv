@@ -112,21 +112,19 @@ education:
 #          - Bullet point
 #          - Bullet point
 projects:
-    title: Projects
+    title: Selected Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+       作为负责人承担的项目
     assignments:
-      - title: 国家自然科学基金青年项目(2019-2021) 利用质量迁移指纹和GRACE数据解算地心运动及地球动力学扁率(26.5万）
+      - title: 国家自然科学基金青年项目(2019-2021) 利用质量迁移指纹和GRACE数据解算地心运动及地球动力学扁率
         link: "#hook"
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 #
-      - title: 2018年福建省海平面变化影响调查评估(2018, 35万）
+      - title: 2018年福建省海平面变化影响调查评估(2018）
         link: "#"
 #        tagline: "A responsive website template designed to help web developers/designers market their services."
 #
-      - title: 1019年福建省海平面变化影响调查评估(2019, 33万)
+      - title: 2019年福建省海平面变化影响调查评估(2019)
         link: "#"
 #        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 #
