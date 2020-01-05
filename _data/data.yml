@@ -115,18 +115,20 @@ education:
 projects:
     title: Selected Projects
     intro: |
-       作为负责人承担的项目
-    assignments:
-      - title: 国家自然科学基金青年项目(2019-2021) 利用质量迁移指纹和GRACE数据解算地心运动及地球动力学扁率
-        link: "#hook"
+       作为负责人承担的项目:
+       1. 利用质量迁移指纹和GRACE数据解算地心运动及地球动力学扁率时变 （国家自然科学基金青年项目2019-2021）
+       2. 福建省海平面变化影响调查评估（国家海洋信息中心项目2018-2019）
+#    assignments:
+#      - title: 国家自然科学基金青年项目(2019-2021) 利用质量迁移指纹和GRACE数据解算地心运动及地球动力学扁率
+#        link: "#hook"
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 #
-      - title: 2018年福建省海平面变化影响调查评估(2018）
-        link: "#"
+#      - title: 2018年福建省海平面变化影响调查评估(2018）
+#        link: "#"
 #        tagline: "A responsive website template designed to help web developers/designers market their services."
 #
-      - title: 2019年福建省海平面变化影响调查评估(2019)
-        link: "#"
+#      - title: 2019年福建省海平面变化影响调查评估(2019)
+#        link: "#"
 #        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 #
 #      - title: Atom
