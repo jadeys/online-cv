@@ -144,10 +144,10 @@ publications:
     intro: |
 
     papers:
-      - title: Using GRACE Data to Explain the Variations in the Earth's Oblateness
-        link: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080607
+      - title: A global semi-empirical glacial isostatic adjustment (GIA) model based on Gravity Recovery and Climate Experiment (GRACE) data
+        link: https://www.earth-syst-dynam.net/11/129/2020/
         authors: Yu Sun, Riccardo Riva, Pavel Ditmar, Roelof Rietbroek
-        conference: Geophysical Research Letters (2019)
+        conference: Earth System Dynamics (2020)
       - title: Using GRACE Data to Explain the Variations in the Earth's Oblateness
         link: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080607
         authors: Yu Sun, Riccardo Riva, Pavel Ditmar, Roelof Rietbroek
